@@ -1,6 +1,6 @@
 # Hi 👋, I'm Are
 
-### A budding Html developer
+### A potato-style developer
 
 - 🔭 I'm currently working on **a Fintech ecosystem project, consisting of e.g. a full payment processing system and a payment credit card system, plus a environmental project aiming to make a greener world.**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://2minitz.com/portfolio](https://2minitz.com/portfolio)**
 
-- 📝 I regularly write articles on **[https://www.2minitz.com](https://www.2minitz.com)**
+- 📝 My consulting company **[https://www.2minitz.com](https://www.2minitz.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
