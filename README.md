@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **anything!**
 
-- 👨‍💻 All of my projects are available at **[https://2minitz.com/portfolio](https://2minitz.com/portfolio)**
+- 👨‍💻 Some of my older projects are available at **[https://2minitz.com/portfolio](https://2minitz.com/portfolio)**
 
 - 📝 My consulting company **[https://www.2minitz.com](https://www.2minitz.com)**
 
